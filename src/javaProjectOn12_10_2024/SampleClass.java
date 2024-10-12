@@ -6,6 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		System.out.println("develo branch");
 		System.out.println("adding new code to develo branch");
+		System.out.println("adding this code in javaProjectOn12_10_2024 ");
 		
 
 	}
