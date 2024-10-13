@@ -10,6 +10,15 @@ public class SampleClass {
 		
 		System.out.println("code added on 13-10-2024 ");
 		
+		
+		int num=12;
+if(num%2==0) {
+	System.out.println("the number " + num + " is even ");
+}
+else {
+	System.out.println("the number " + num + " is Odd ");
+
+}
 
 	}
 
