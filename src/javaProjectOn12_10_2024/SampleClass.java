@@ -17,9 +17,11 @@ if(num%2==0) {
 }
 else {
 	System.out.println("the number " + num + " is Odd ");
+	System.out.println();
 
 }
 
 	}
 
 }
+
